@@ -1,0 +1,34 @@
+N = 1000000
+
+1 Tarea -> 100%  480358ms
+16 Tareas -> 100%  300014ms
+
+Window
+N = 50000
+1 Tareas -> 70% 843ms
+2 Tareas -> 62% 484ms
+4 Tareas -> 60% 421ms
+8 Tareas -> 45% 393ms
+16 Tareas -> 48% 378ms
+
+Linux
+N = 50000
+1 Tareas -> 55% 868ms
+2 Tareas -> 52% 451ms
+4 Tareas -> 58% 465ms
+8 Tareas -> 47% 420ms
+16 Tareas -> 60% 418ms
+
+Num.Tareas 	Window	Linux
+1		843	868
+2		484	451
+4		421	465
+8		393	420
+16		378	418
+
+Num.Tareas 	Window	Linux
+1		70	55
+2		62	52
+4		60	58
+8		45	47
+16		48	60

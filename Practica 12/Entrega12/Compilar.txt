@@ -1,0 +1,6 @@
+C++ -> g++ ----.cpp -o salida -pthread --std=c++11
+MPJ -> /**
+ 	* Compilar: javac -cp "%MPJ_HOME%\lib\mpj.jar" prodInterno.java
+ 	* Ejecutar: mpjrun.bat -np 2 prodInterno
+ 	*/
+
